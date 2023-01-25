@@ -1,13 +1,37 @@
 # LGMVIP-DataScience
 Tasks of LetsGrowMore Internship in Data Science.
 
-![Screenshot (14)](https://user-images.githubusercontent.com/91107260/212080199-ce122092-3a4f-4546-baf5-f762e13349ec.png)
+TASK-1 IRIS FLOWER CLASSIFICATION
 
+Steps:-
 
+1) Importing libraries
+2) Importing the dataset
+3) Data Exploration
+4) Visualization
+5) Correlation Matrix
+6) Statastical Analysis
+7) Separate Input and output columns
+8) Split data into Training and Testing
+9) Model Selection
 
-![Screenshot (22)](https://user-images.githubusercontent.com/91107260/213870341-f3e3cffe-4e1d-45ca-9f03-1335e869b4e8.png)
+TASK-2 IMAGE TO PENCIL SKETCH
 
-TASK-3 Exploratory Data Analysis On Dataset-Terrorism
+Steps:-
+
+1) Importing libraries
+2) Read image
+3) Show image
+4) Convert image from BGR to RGB
+5) Grey image
+6) Inverted grey image
+7) Blur image
+8) Inverted blur image
+9) Pencil sketch image
+10) Save pencil sketch image
+11) Original and Pencil sketch image
+
+TASK-3 EXPLORATORY DATA ANALYSIS ON DATASET-TERRORISM
 
 Steps:-
 
@@ -24,7 +48,6 @@ Steps:-
 11) Count of terrorist attacks in each countries and regions
 12) Count of attacks in each country using globe
 13) Finding out the terrorist organizations that carried out the operations in different countries
-14) 
 
 
 
